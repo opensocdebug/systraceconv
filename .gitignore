@@ -1,0 +1,8 @@
+.eggs/
+.idea/
+build/
+dist/
+*.egg-info/
+__pycache__
+
+opensocdebug/systraceconv/version.py
