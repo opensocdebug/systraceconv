@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+PackageName: systraceconv
+PackageOriginator: OpenSoCDebug
+PackageHomePage: https://opensocdebug.org
+PackageLicenseDeclared: Apache-2.0
